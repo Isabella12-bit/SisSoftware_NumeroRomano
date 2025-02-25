@@ -319,3 +319,83 @@ test('Convierte 79 a LXXIX', () => {
 test('Convierte 80 a LXXX', () => {
     expect(toRoman(80)).toBe('LXXX');
 });
+
+test('Convierte 81 a LXXXI', () => {
+    expect(toRoman(81)).toBe('LXXXI');
+});
+
+test('Convierte 82 a LXXXII', () => {
+    expect(toRoman(82)).toBe('LXXXII');
+});
+
+test('Convierte 83 a LXXXIII', () => {
+    expect(toRoman(83)).toBe('LXXXIII');
+});
+
+test('Convierte 84 a LXXXIV', () => {
+    expect(toRoman(84)).toBe('LXXXIV');
+});
+
+test('Convierte 85 a LXXXV', () => {
+    expect(toRoman(85)).toBe('LXXXV');
+});
+
+test('Convierte 86 a LXXXVI', () => {
+    expect(toRoman(86)).toBe('LXXXVI');
+});
+
+test('Convierte 87 a LXXXVII', () => {
+    expect(toRoman(87)).toBe('LXXXVII');
+});
+
+test('Convierte 88 a LXXXVIII', () => {
+    expect(toRoman(88)).toBe('LXXXVIII');
+});
+
+test('Convierte 89 a LXXXIX', () => {
+    expect(toRoman(89)).toBe('LXXXIX');
+});
+
+test('Convierte 90 a XC', () => {
+    expect(toRoman(90)).toBe('XC');
+});
+
+test('Convierte 91 a XCI', () => {
+    expect(toRoman(91)).toBe('XCI');
+});
+
+test('Convierte 92 a XCII', () => {
+    expect(toRoman(92)).toBe('XCII');
+});
+
+test('Convierte 93 a XCIII', () => {
+    expect(toRoman(93)).toBe('XCIII');
+});
+
+test('Convierte 94 a XCIV', () => {
+    expect(toRoman(94)).toBe('XCIV');
+});
+
+test('Convierte 95 a XCV', () => {
+    expect(toRoman(95)).toBe('XCV');
+});
+
+test('Convierte 96 a XCVI', () => {
+    expect(toRoman(96)).toBe('XCVI');
+});
+
+test('Convierte 97 a XCVII', () => {
+    expect(toRoman(97)).toBe('XCVII');
+});
+
+test('Convierte 98 a XCVIII', () => {
+    expect(toRoman(98)).toBe('XCVIII');
+});
+
+test('Convierte 99 a XCIX', () => {
+    expect(toRoman(99)).toBe('XCIX');
+});
+
+test('Convierte 100 a C', () => {
+    expect(toRoman(100)).toBe('C');
+});
