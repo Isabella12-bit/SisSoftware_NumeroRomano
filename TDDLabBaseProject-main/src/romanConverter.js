@@ -131,4 +131,151 @@ function toRoman(num) {
     return "";
 }
 
+function toRoman(num) {
+    if (num === 20) {
+        return "XX";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 21) {
+        return "XXI";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 22) {
+        return "XXII";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 23) {
+        return "XXIII";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 24) {
+        return "XXIV";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 25) {
+        return "XXV";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 26) {
+        return "XXVI";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 27) {
+        return "XXVII";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 28) {
+        return "XXVIII";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 29) {
+        return "XXIX";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 30) {
+        return "XXX";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 31) {
+        return "XXXI";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 32) {
+        return "XXXII";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 33) {
+        return "XXXIII";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 34) {
+        return "XXXIV";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 35) {
+        return "XXXV";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 36) {
+        return "XXXVI";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 37) {
+        return "XXXVII";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 38) {
+        return "XXXVIII";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 39) {
+        return "XXXIX";
+    }
+    return "";
+}
+
+function toRoman(num) {
+    if (num === 40) {
+        return "XL";
+    }
+    return "";
+}
+
 module.exports = toRoman;

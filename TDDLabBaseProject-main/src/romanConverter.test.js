@@ -79,3 +79,83 @@ test('Convierte 19 a XIX', () => {
 test('Convierte 20 a XX', () => {
     expect(toRoman(20)).toBe('XX');
 });
+
+test('Convierte 21 a XXI', () => {
+    expect(toRoman(21)).toBe('XXI');
+});
+
+test('Convierte 22 a XXII', () => {
+    expect(toRoman(22)).toBe('XXII');
+});
+
+test('Convierte 23 a XXIII', () => {
+    expect(toRoman(23)).toBe('XXIII');
+});
+
+test('Convierte 24 a XXIV', () => {
+    expect(toRoman(24)).toBe('XXIV');
+});
+
+test('Convierte 25 a XXV', () => {
+    expect(toRoman(25)).toBe('XXV');
+});
+
+test('Convierte 26 a XXVI', () => {
+    expect(toRoman(26)).toBe('XXVI');
+});
+
+test('Convierte 27 a XXVII', () => {
+    expect(toRoman(27)).toBe('XXVII');
+});
+
+test('Convierte 28 a XXVIII', () => {
+    expect(toRoman(28)).toBe('XXVIII');
+});
+
+test('Convierte 29 a XXIX', () => {
+    expect(toRoman(29)).toBe('XXIX');
+});
+
+test('Convierte 30 a XXX', () => {
+    expect(toRoman(30)).toBe('XXX');
+});
+
+test('Convierte 31 a XXXI', () => {
+    expect(toRoman(31)).toBe('XXXI');
+});
+
+test('Convierte 32 a XXXII', () => {
+    expect(toRoman(32)).toBe('XXXII');
+});
+
+test('Convierte 33 a XXXIII', () => {
+    expect(toRoman(33)).toBe('XXXIII');
+});
+
+test('Convierte 34 a XXXIV', () => {
+    expect(toRoman(34)).toBe('XXXIV');
+});
+
+test('Convierte 35 a XXXV', () => {
+    expect(toRoman(35)).toBe('XXXV');
+});
+
+test('Convierte 36 a XXXVI', () => {
+    expect(toRoman(36)).toBe('XXXVI');
+});
+
+test('Convierte 37 a XXXVII', () => {
+    expect(toRoman(37)).toBe('XXXVII');
+});
+
+test('Convierte 38 a XXXVIII', () => {
+    expect(toRoman(38)).toBe('XXXVIII');
+});
+
+test('Convierte 39 a XXXIX', () => {
+    expect(toRoman(39)).toBe('XXXIX');
+});
+
+test('Convierte 40 a XL', () => {
+    expect(toRoman(40)).toBe('XL');
+});
