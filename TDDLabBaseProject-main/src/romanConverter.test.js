@@ -15,3 +15,7 @@ test('Convierte 3 a III', () => {
 test('Convierte 4 a IV', () => {
     expect(toRoman(3)).toBe('III');
 });
+
+test('Convierte 5 a V', () => {
+    expect(toRoman(5)).toBe('V');
+});
