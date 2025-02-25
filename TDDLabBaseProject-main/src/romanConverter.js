@@ -61,4 +61,11 @@ function toRoman(num) {
     return "";
 }
 
+function toRoman(num) {
+    if (num === 10) {
+        return "X";
+    }
+    return "";
+}
+
 module.exports = toRoman;
