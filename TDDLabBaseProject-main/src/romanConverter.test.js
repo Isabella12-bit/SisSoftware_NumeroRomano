@@ -7,3 +7,7 @@ test('Convierte 1 a I', () => {
 test('Convierte 2 a II', () => {
     expect(toRoman(2)).toBe('II');
 });
+
+test('Convierte 3 a III', () => {
+    expect(toRoman(3)).toBe('III');
+});
