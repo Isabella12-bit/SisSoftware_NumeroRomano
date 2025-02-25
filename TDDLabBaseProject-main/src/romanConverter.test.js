@@ -51,3 +51,7 @@ test('Convierte 12 a XII', () => {
 test('Convierte 13 a XII', () => {
     expect(toRoman(13)).toBe('XIII');
 });
+
+test('Convierte 14 a XIV', () => {
+    expect(toRoman(14)).toBe('XIV');
+});
