@@ -67,3 +67,7 @@ test('Convierte 16 a XVI', () => {
 test('Convierte 17 a XVII', () => {
     expect(toRoman(17)).toBe('XVII');
 });
+
+test('Convierte 18 a XVIII', () => {
+    expect(toRoman(18)).toBe('XVIII');
+});
