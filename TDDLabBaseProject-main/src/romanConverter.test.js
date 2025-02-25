@@ -159,3 +159,83 @@ test('Convierte 39 a XXXIX', () => {
 test('Convierte 40 a XL', () => {
     expect(toRoman(40)).toBe('XL');
 });
+
+test('Convierte 41 a XLI', () => {
+    expect(toRoman(41)).toBe('XLI');
+});
+
+test('Convierte 42 a XLII', () => {
+    expect(toRoman(42)).toBe('XLII');
+});
+
+test('Convierte 43 a XLIII', () => {
+    expect(toRoman(43)).toBe('XLIII');
+});
+
+test('Convierte 44 a XLIV', () => {
+    expect(toRoman(44)).toBe('XLIV');
+});
+
+test('Convierte 45 a XLV', () => {
+    expect(toRoman(45)).toBe('XLV');
+});
+
+test('Convierte 46 a XLVI', () => {
+    expect(toRoman(46)).toBe('XLVI');
+});
+
+test('Convierte 47 a XLVII', () => {
+    expect(toRoman(47)).toBe('XLVII');
+});
+
+test('Convierte 48 a XLVIII', () => {
+    expect(toRoman(48)).toBe('XLVIII');
+});
+
+test('Convierte 49 a XLIX', () => {
+    expect(toRoman(49)).toBe('XLIX');
+});
+
+test('Convierte 50 a L', () => {
+    expect(toRoman(50)).toBe('L');
+});
+
+test('Convierte 51 a LI', () => {
+    expect(toRoman(51)).toBe('LI');
+});
+
+test('Convierte 52 a LII', () => {
+    expect(toRoman(52)).toBe('LII');
+});
+
+test('Convierte 53 a LIII', () => {
+    expect(toRoman(53)).toBe('LIII');
+});
+
+test('Convierte 54 a LIV', () => {
+    expect(toRoman(54)).toBe('LIV');
+});
+
+test('Convierte 55 a LV', () => {
+    expect(toRoman(55)).toBe('LV');
+});
+
+test('Convierte 56 a LVI', () => {
+    expect(toRoman(56)).toBe('LVI');
+});
+
+test('Convierte 57 a LVII', () => {
+    expect(toRoman(57)).toBe('LVII');
+});
+
+test('Convierte 58 a LVIII', () => {
+    expect(toRoman(58)).toBe('LVIII');
+});
+
+test('Convierte 59 a LIX', () => {
+    expect(toRoman(59)).toBe('LIX');
+});
+
+test('Convierte 60 a LX', () => {
+    expect(toRoman(60)).toBe('LX');
+});
