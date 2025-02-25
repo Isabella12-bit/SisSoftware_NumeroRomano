@@ -27,3 +27,7 @@ test('Convierte 6 a VI', () => {
 test('Convierte 7 a VII', () => {
     expect(toRoman(7)).toBe('VII');
 });
+
+test('Convierte 8 a VII', () => {
+    expect(toRoman(8)).toBe('VIII');
+});
