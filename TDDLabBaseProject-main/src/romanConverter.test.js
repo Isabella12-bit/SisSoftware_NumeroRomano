@@ -28,6 +28,10 @@ test('Convierte 7 a VII', () => {
     expect(toRoman(7)).toBe('VII');
 });
 
-test('Convierte 8 a VII', () => {
+test('Convierte 8 a VIII', () => {
     expect(toRoman(8)).toBe('VIII');
+});
+
+test('Convierte 9 a IX', () => {
+    expect(toRoman(9)).toBe('IX');
 });
