@@ -239,6 +239,66 @@ function toRoman(num) {
     if (num === 80) {
         return "LXXX";
     }
+    if (num === 81) {
+        return "LXXXI";
+    }
+    if (num === 82) {
+        return "LXXXII";
+    }
+    if (num === 83) {
+        return "LXXXIII";
+    }
+    if (num === 84) {
+        return "LXXXIV";
+    }
+    if (num === 85) {
+        return "LXXXV";
+    }
+    if (num === 86) {
+        return "LXXXVI";
+    }
+    if (num === 87) {
+        return "LXXXVII";
+    }
+    if (num === 88) {
+        return "LXXXVIII";
+    }
+    if (num === 89) {
+        return "LXXXIX";
+    }
+    if (num === 90) {
+        return "XC";
+    }
+    if (num === 91) {
+        return "XCI";
+    }
+    if (num === 92) {
+        return "XCII";
+    }
+    if (num === 93) {
+        return "XCIII";
+    }
+    if (num === 94) {
+        return "XCIV";
+    }
+    if (num === 95) {
+        return "XCV";
+    }
+    if (num === 96) {
+        return "XCVI";
+    }
+    if (num === 97) {
+        return "XCVII";
+    }
+    if (num === 98) {
+        return "XCVIII";
+    }
+    if (num === 99) {
+        return "XCIX";
+    }
+    if (num === 100) {
+        return "C";
+    }
     return "";
 }
 
